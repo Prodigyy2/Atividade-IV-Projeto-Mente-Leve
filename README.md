@@ -1,5 +1,5 @@
 # Atividade-IV-Projeto-Mente
-📚 Sobre o Projeto Trabalho Acadêmico desenvolvido para a disciplina de [Nome da Disciplina] do curso de [Nome do Curso] da [Nome da Faculdade].
+📚 Sobre o Projeto Trabalho Acadêmico desenvolvido para a disciplina de Design Profissional do curso de ADS da Cruzeiro do Sul Virtual.
 
 O Mente Leve é um projeto de pesquisa focado em estudar e implementar soluções de acessibilidade digital na área de saúde mental, especificamente para a realidade brasileira.
 
